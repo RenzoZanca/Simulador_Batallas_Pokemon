@@ -1,0 +1,382 @@
+id,poder,pp,precision,prioridad,nombre,tipo,naturaleza
+0,40,35,100,0,Destructor,Normal,Fisico
+1,50,25,100,0,Golpe Karate,Lucha,Fisico
+2,15,10,85,0,Doble Bofeton,Normal,Fisico
+3,18,15,85,0,Puno Cometa,Normal,Fisico
+4,80,20,85,0,Megapuno,Normal,Fisico
+5,40,20,100,0,Dia de Pago,Normal,Fisico
+6,75,15,100,0,Puno Fuego,Fuego,Fisico
+7,75,15,100,0,Puno Hielo,Hielo,Fisico
+8,75,15,100,0,Puno Trueno,Electrico,Fisico
+9,40,35,100,0,Aranazo,Normal,Fisico
+10,55,30,100,0,Agarre,Normal,Fisico
+12,80,10,100,0,Viento Cortante,Normal,Especial
+14,50,30,95,0,Corte,Normal,Fisico
+15,40,35,100,0,Tornado,Volador,Especial
+16,60,35,100,0,Ataque Ala,Volador,Fisico
+18,90,15,95,0,Vuelo,Volador,Fisico
+19,15,20,85,0,Atadura,Normal,Fisico
+20,80,20,75,0,Atizar,Normal,Fisico
+21,45,25,100,0,Latigo Cepa,Planta,Fisico
+22,65,20,100,0,Pisoton,Normal,Fisico
+23,30,30,100,0,Doble Patada,Lucha,Fisico
+24,120,5,75,0,Megapatada,Normal,Fisico
+25,100,10,95,0,Patada Salto,Lucha,Fisico
+26,60,15,85,0,Patada Giro,Lucha,Fisico
+28,70,15,100,0,Golpe Cabeza,Normal,Fisico
+29,65,25,100,0,Cornada,Normal,Fisico
+30,15,20,85,0,Ataque Furia,Normal,Fisico
+32,40,35,100,0,Placaje,Normal,Fisico
+33,85,15,100,0,Golpe Cuerpo,Normal,Fisico
+34,15,20,90,0,Constriccion,Normal,Fisico
+35,90,20,85,0,Derribo,Normal,Fisico
+36,120,10,100,0,Golpe,Normal,Fisico
+37,120,15,100,0,Doble Filo,Normal,Fisico
+39,15,35,100,0,Picotazo Ven,Veneno,Fisico
+40,25,20,100,0,Doble Ataque,Bicho,Fisico
+41,25,20,95,0,Pin Misil,Bicho,Fisico
+43,60,25,100,0,Mordisco,Siniestro,Fisico
+50,40,30,100,0,Acido,Veneno,Especial
+51,40,25,100,0,Ascuas,Fuego,Especial
+52,90,15,100,0,Lanzallamas,Fuego,Especial
+54,40,25,100,0,Pistola Agua,Agua,Especial
+55,110,5,80,0,Hidrobomba,Agua,Especial
+56,90,15,100,0,Surf,Agua,Especial
+57,90,10,100,0,Rayo Hielo,Hielo,Especial
+58,110,5,70,0,Ventisca,Hielo,Especial
+59,65,20,100,0,Psicorrayo,Psiquico,Especial
+60,65,20,100,0,Rayo Burbuja,Agua,Especial
+61,65,20,100,0,Rayo Aurora,Hielo,Especial
+62,150,5,90,0,Hiperrayo,Normal,Especial
+63,35,35,100,0,Picotazo,Volador,Fisico
+64,80,20,100,0,Pico Taladro,Volador,Fisico
+65,80,20,80,0,Sumision,Lucha,Fisico
+69,80,15,100,0,Fuerza,Normal,Fisico
+70,20,25,100,0,Absorber,Planta,Especial
+71,40,15,100,0,Megaagotar,Planta,Especial
+74,55,25,95,0,Hoja Afilada,Planta,Fisico
+75,120,10,100,0,Rayo Solar,Planta,Especial
+79,120,10,100,0,Danza Petalo,Planta,Especial
+82,35,15,85,0,Giro Fuego,Fuego,Especial
+83,40,30,100,0,Impactrueno,Electrico,Especial
+84,90,15,100,0,Rayo,Electrico,Especial
+86,110,10,70,0,Trueno,Electrico,Especial
+87,50,15,90,0,Lanzarrocas,Roca,Fisico
+88,100,10,100,0,Terremoto,Tierra,Fisico
+90,80,10,100,0,Excavar,Tierra,Fisico
+92,50,25,100,0,Confusion,Psiquico,Especial
+93,90,10,100,0,Psiquico,Psiquico,Especial
+97,40,30,100,1,Ataque Rapido,Normal,Fisico
+98,20,20,100,0,Furia,Normal,Fisico
+119,200,5,100,0,Autodestruccion,Normal,Fisico
+120,100,10,75,0,Bomba Huevo,Normal,Fisico
+121,30,30,100,0,Lenguetazo,Fantasma,Fisico
+122,30,20,70,0,Polucion,Veneno,Especial
+123,65,20,100,0,Residuos,Veneno,Especial
+124,65,20,85,0,Hueso Palo,Tierra,Fisico
+125,110,5,85,0,Llamarada,Fuego,Especial
+126,80,15,100,0,Cascada,Agua,Fisico
+127,35,15,85,0,Tenaza,Agua,Fisico
+129,130,10,100,0,Cabezazo,Normal,Fisico
+130,20,15,100,0,Clavo Canon,Normal,Fisico
+131,10,35,100,0,Restriccion,Normal,Fisico
+135,130,10,90,0,Pat. Salto Alta,Lucha,Fisico
+137,100,15,100,0,Come Suenos,Psiquico,Especial
+139,15,20,85,0,Presa,Normal,Fisico
+140,80,10,100,0,Chupavidas,Bicho,Fisico
+142,140,5,90,0,Ataque Aereo,Volador,Fisico
+144,40,30,100,0,Burbuja,Agua,Especial
+145,70,10,100,0,Puno Mareo,Normal,Fisico
+151,100,10,90,0,Martillazo,Agua,Fisico
+152,250,5,100,0,Explosion,Normal,Fisico
+153,18,15,80,0,Golpes Furia,Normal,Fisico
+154,50,10,90,0,Huesomerang,Tierra,Fisico
+156,75,10,90,0,Avalancha,Roca,Fisico
+157,80,15,90,0,Hipercolmillo,Normal,Fisico
+160,80,10,100,0,Triataque,Normal,Especial
+162,70,20,100,0,Cuchillada,Normal,Fisico
+166,10,10,90,0,Triple Patada,Lucha,Fisico
+167,60,25,100,0,Ladron,Siniestro,Fisico
+171,60,25,100,0,Rueda Fuego,Fuego,Fisico
+172,50,15,100,0,Ronquido,Normal,Especial
+176,100,5,95,0,Aerochorro,Volador,Especial
+180,40,25,100,0,Nieve Polvo,Hielo,Especial
+182,40,30,100,1,Ultrapuno,Lucha,Fisico
+187,90,10,100,0,Bomba Lodo,Veneno,Especial
+188,20,10,100,0,Bofeton Lodo,Tierra,Especial
+189,65,10,85,0,Pulpocanon,Agua,Especial
+191,120,5,50,0,Electrocanon,Electrico,Especial
+195,55,15,95,0,Viento Hielo,Hielo,Especial
+197,25,10,90,0,Ataque Oseo,Tierra,Fisico
+199,120,10,100,0,Enfado,Dragon,Fisico
+201,75,10,100,0,Gigadrenado,Planta,Especial
+204,30,20,90,0,Desenrollar,Roca,Fisico
+205,40,40,100,0,Falsotortazo,Normal,Fisico
+208,65,20,100,0,Chispa,Electrico,Fisico
+209,40,20,95,0,Corte Furia,Bicho,Fisico
+210,70,25,90,0,Ala de Acero,Acero,Fisico
+220,100,5,95,0,Fuego Sagrado,Fuego,Fisico
+222,100,5,50,0,Puno Dinamico,Lucha,Fisico
+223,120,10,85,0,Megacuerno,Bicho,Fisico
+224,60,20,100,0,Dragoaliento,Dragon,Especial
+227,40,20,100,0,Persecucion,Siniestro,Fisico
+228,20,40,100,0,Giro Rapido,Normal,Fisico
+230,100,15,75,0,Cola Ferrea,Acero,Fisico
+231,50,35,95,0,Garra Metal,Acero,Fisico
+236,60,15,100,0,Poder Oculto,Normal,Especial
+237,100,5,80,0,Tajo Cruzado,Lucha,Fisico
+238,40,20,100,0,Ciclon,Dragon,Especial
+241,80,15,100,0,Triturar,Siniestro,Fisico
+244,80,5,100,2,Veloc. Extrema,Normal,Fisico
+245,60,5,100,0,Poder Pasado,Roca,Especial
+246,80,15,100,0,Bola Sombra,Fantasma,Especial
+247,120,10,100,0,Premonicion,Psiquico,Especial
+248,40,15,100,0,Golpe Roca,Lucha,Fisico
+249,35,15,85,0,Torbellino,Agua,Especial
+251,40,10,100,3,Sorpresa,Normal,Fisico
+252,90,10,100,0,Alboroto,Normal,Especial
+256,95,10,90,0,Onda Ignea,Fuego,Especial
+262,70,20,100,0,Imagen,Normal,Fisico
+263,150,20,100,-3,Puno Certero,Lucha,Fisico
+264,70,10,100,0,Estimulo,Normal,Fisico
+275,120,5,100,0,Fuerza Bruta,Lucha,Fisico
+278,60,10,100,-4,Desquite,Lucha,Fisico
+279,75,15,100,0,Demolicion,Lucha,Fisico
+281,65,20,100,0,Desarme,Siniestro,Fisico
+283,150,5,100,0,Estallido,Fuego,Especial
+289,70,20,100,0,Dano Secreto,Normal,Fisico
+290,80,10,100,0,Buceo,Agua,Fisico
+291,15,20,100,0,Empujon,Lucha,Fisico
+294,70,5,100,0,Resplandor,Psiquico,Especial
+295,70,5,100,0,Bola Neblina,Psiquico,Especial
+298,85,10,90,0,Patada Ignea,Fuego,Fisico
+300,30,20,90,0,Bola Hielo,Hielo,Fisico
+301,60,15,100,0,Brazo Pincho,Planta,Fisico
+303,90,10,100,0,Vozarron,Normal,Especial
+304,50,15,100,0,Colmillo Ven,Veneno,Fisico
+305,75,10,95,0,Garra Brutal,Normal,Fisico
+306,150,5,90,0,Anillo Igneo,Fuego,Especial
+307,150,5,90,0,Hidrocanon,Agua,Especial
+308,90,10,90,0,Puno Meteoro,Acero,Fisico
+309,30,15,100,0,Impresionar,Fantasma,Fisico
+310,50,10,100,0,Meteorobola,Normal,Especial
+313,60,25,95,0,Aire Afilado,Volador,Especial
+314,130,5,90,0,Sofoco,Fuego,Especial
+316,60,15,95,0,Tumba Rocas,Roca,Fisico
+317,60,5,100,0,Viento Plata,Bicho,Especial
+322,150,5,100,0,Salpicar,Agua,Especial
+323,75,15,100,0,Doble Rayo,Bicho,Especial
+325,80,20,100,0,Paranormal,Psiquico,Especial
+326,85,15,90,0,Gancho Alto,Lucha,Fisico
+327,35,15,85,0,Bucle Arena,Tierra,Fisico
+329,90,10,85,0,Agua Lodosa,Agua,Especial
+330,25,30,100,0,Recurrente,Planta,Fisico
+332,25,30,100,0,Carambano,Hielo,Fisico
+336,80,15,100,0,Garra Dragon,Dragon,Fisico
+337,150,5,90,0,Planta Feroz,Planta,Especial
+339,85,5,85,0,Bote,Volador,Fisico
+340,55,15,95,0,Disparo Lodo,Tierra,Especial
+341,50,25,100,0,Cola Veneno,Veneno,Fisico
+342,60,25,100,0,Antojo,Normal,Fisico
+343,120,15,100,0,Placaje Elec,Electrico,Fisico
+347,90,15,100,0,Hoja Aguda,Planta,Fisico
+349,25,10,90,0,Pedrada,Roca,Fisico
+351,60,20,100,0,Hidropulso,Agua,Especial
+352,140,5,100,0,Deseo Oculto,Acero,Especial
+353,140,5,90,0,Psicoataque,Psiquico,Especial
+357,70,10,100,0,Espabila,Lucha,Fisico
+358,100,10,90,0,Machada,Lucha,Fisico
+361,65,10,100,0,Salmuera,Agua,Especial
+363,30,10,100,2,Amago,Normal,Fisico
+364,60,20,100,0,Picoteo,Volador,Fisico
+368,70,20,100,0,Ida y Vuelta,Bicho,Fisico
+369,120,5,100,0,A Bocajarro,Lucha,Fisico
+370,50,10,100,0,Vendetta,Siniestro,Fisico
+371,60,10,100,0,Buena Baza,Siniestro,Fisico
+386,140,5,100,0,Ultima Baza,Normal,Fisico
+388,70,5,100,1,Golpe Bajo,Siniestro,Fisico
+393,120,15,100,0,Envite Igneo,Fuego,Fisico
+394,60,10,100,0,Palmeo,Lucha,Fisico
+397,80,20,100,0,Puya Nociva,Veneno,Fisico
+398,80,15,100,0,Pulso Umbrio,Siniestro,Especial
+399,70,15,100,0,Tajo Umbrio,Siniestro,Fisico
+400,90,10,90,0,Acua Cola,Agua,Fisico
+401,80,15,100,0,Bomba Germen,Planta,Fisico
+402,75,15,95,0,Tajo Aereo,Volador,Especial
+403,80,15,100,0,Tijera X,Bicho,Fisico
+404,90,10,100,0,Zumbido,Bicho,Especial
+405,85,10,100,0,Pulso Dragon,Dragon,Especial
+406,100,10,75,0,Carga Dragon,Dragon,Fisico
+407,80,20,100,0,Joya de Luz,Roca,Especial
+408,75,10,100,0,Puno Drenaje,Lucha,Fisico
+409,40,30,100,1,Onda Vacio,Lucha,Especial
+410,120,5,70,0,Onda Certera,Lucha,Especial
+411,90,10,100,0,Energibola,Planta,Especial
+412,120,15,100,0,Pajaro Osado,Volador,Fisico
+413,90,10,100,0,Tierra Viva,Tierra,Especial
+415,150,5,90,0,Giga Impacto,Normal,Fisico
+417,40,30,100,1,Puno Bala,Acero,Fisico
+418,60,10,100,-4,Alud,Hielo,Fisico
+419,40,30,100,1,Canto Helado,Hielo,Fisico
+420,70,15,100,0,Garra Umbria,Fantasma,Fisico
+421,65,15,95,0,Colmillo Rayo,Electrico,Fisico
+422,65,15,95,0,Colmillo Hielo,Hielo,Fisico
+423,65,15,95,0,Colmillo Igneo,Fuego,Fisico
+424,40,30,100,1,Sombra Vil,Fantasma,Fisico
+425,65,10,85,0,Bomba Fango,Tierra,Especial
+426,70,20,100,0,Psicocorte,Psiquico,Fisico
+427,80,15,90,0,Cabezazo Zen,Psiquico,Fisico
+428,65,10,85,0,Disparo Espejo,Acero,Especial
+429,80,10,100,0,Foco Resplandor,Acero,Especial
+430,90,20,85,0,Treparrocas,Normal,Fisico
+433,130,5,90,0,Cometa Draco,Dragon,Especial
+434,80,15,100,0,Chispazo,Electrico,Especial
+435,80,15,100,0,Humareda,Fuego,Especial
+436,130,5,90,0,Lluevehojas,Planta,Especial
+437,120,10,85,0,Latigazo,Planta,Fisico
+438,150,5,90,0,Romperrocas,Roca,Fisico
+439,70,20,100,0,Veneno X,Veneno,Fisico
+440,120,5,80,0,Lanza Mugre,Veneno,Fisico
+441,80,15,100,0,Cabeza de Hierro,Acero,Fisico
+443,100,5,80,0,Roca Afilada,Roca,Fisico
+447,65,20,100,0,Chachara,Volador,Especial
+448,100,10,100,0,Sentencia,Normal,Especial
+449,60,20,100,0,Picadura,Bicho,Fisico
+450,50,10,90,0,Rayo Carga,Electrico,Especial
+451,120,15,100,0,Mazazo,Planta,Fisico
+452,40,20,100,1,Acua Jet,Agua,Fisico
+453,90,15,100,0,Al Ataque,Bicho,Fisico
+456,150,5,80,0,Testarazo,Roca,Fisico
+457,35,10,90,0,Doble Golpe,Normal,Fisico
+458,150,5,90,0,Distorsion,Dragon,Especial
+459,100,5,95,0,Corte Vacio,Dragon,Especial
+462,100,5,75,0,Lluvia Ignea,Fuego,Especial
+464,120,5,85,0,Fogonazo,Planta,Especial
+465,60,5,100,0,Viento Aciago,Fantasma,Especial
+466,120,5,100,0,Golpe Umbrio,Fantasma,Fisico
+472,80,10,100,0,Psicocarga,Psiquico,Especial
+473,65,10,100,0,Carga Toxica,Veneno,Especial
+478,50,15,100,0,Antiaereo,Roca,Fisico
+479,60,10,100,0,Llave Corse,Lucha,Fisico
+480,70,15,100,0,Pirotecnia,Fuego,Especial
+481,95,10,100,0,Onda Toxica,Veneno,Especial
+484,120,10,100,0,Sincrorruido,Psiquico,Especial
+487,50,20,100,0,Nitrocarga,Fuego,Fisico
+489,65,20,100,0,Puntapie,Lucha,Fisico
+490,40,20,100,0,Bomba Acida,Veneno,Especial
+491,95,15,100,0,Juego Sucio,Siniestro,Fisico
+495,60,15,100,0,Canon,Normal,Especial
+496,40,15,100,0,Eco Voz,Normal,Especial
+497,70,20,100,0,Guardia Baja,Normal,Fisico
+499,20,10,100,0,Poder Reserva,Psiquico,Especial
+502,80,15,100,0,Escaldar,Agua,Especial
+505,65,10,100,0,Infortunio,Fantasma,Especial
+506,60,10,100,0,Caida Libre,Volador,Fisico
+508,60,10,90,-6,Llave Giro,Lucha,Fisico
+509,60,15,100,0,Calcinacion,Fuego,Especial
+511,55,15,100,0,Acrobata,Volador,Fisico
+513,70,5,100,0,Represalia,Normal,Fisico
+516,100,5,50,0,Infierno,Fuego,Especial
+517,80,10,100,0,Voto Agua,Agua,Especial
+518,80,10,100,0,Voto Fuego,Fuego,Especial
+519,80,10,100,0,Voto Planta,Planta,Especial
+520,70,20,100,0,Voltiocambio,Electrico,Especial
+521,50,20,100,0,Estoicismo,Bicho,Especial
+522,60,20,100,0,Terratemblor,Tierra,Fisico
+523,60,10,90,0,Vaho Gelido,Hielo,Especial
+524,60,10,90,-6,Cola Dragon,Dragon,Fisico
+526,55,15,95,0,Electrotela,Electrico,Especial
+527,90,15,100,0,Voltio Cruel,Electrico,Fisico
+528,80,10,95,0,Taladradora,Tierra,Fisico
+529,40,15,90,0,Golpe Bis,Dragon,Fisico
+530,60,25,100,0,Arrumaco,Psiquico,Fisico
+531,75,10,100,0,Asta Drenaje,Planta,Fisico
+532,90,15,100,0,Espada Santa,Lucha,Fisico
+533,75,10,95,0,Concha Filo,Agua,Fisico
+535,65,10,90,0,Ciclon de Hojas,Planta,Especial
+536,65,20,100,0,Rodillo de Puas,Bicho,Fisico
+538,85,10,95,0,Pulso Noche,Siniestro,Especial
+539,100,10,100,0,Onda Mental,Psiquico,Especial
+540,25,10,85,0,Plumerazo,Normal,Fisico
+541,110,10,70,0,Vendaval,Volador,Especial
+542,120,15,100,0,Ariete,Normal,Fisico
+543,50,15,85,0,Rueda Doble,Acero,Fisico
+544,100,5,100,0,Bomba Ignea,Fuego,Especial
+545,120,5,100,0,Tecno Shock,Normal,Especial
+546,75,10,100,0,Canto Arcaico,Normal,Especial
+547,85,10,100,0,Sable Mistico,Lucha,Especial
+548,65,10,95,0,Mundo Gelido,Hielo,Especial
+549,130,5,85,0,Ataque Fulgor,Electrico,Fisico
+550,130,5,85,0,Llama Azul,Fuego,Especial
+551,80,10,100,0,Danza Llama,Fuego,Especial
+552,140,5,90,0,Rayo Gelido,Hielo,Fisico
+553,140,5,90,0,Llama Gelida,Hielo,Especial
+554,55,15,95,0,Alarido,Siniestro,Especial
+555,85,10,90,0,Chuzos,Hielo,Fisico
+556,180,5,95,0,V de Fuego,Fuego,Fisico
+557,100,5,100,0,Llama Fusion,Fuego,Especial
+558,100,5,100,0,Rayo Fusion,Electrico,Fisico
+559,100,10,95,0,Plancha Voladora,Lucha,Fisico
+561,120,10,90,0,Eructo,Veneno,Especial
+564,50,25,100,0,Aguijon Letal,Bicho,Fisico
+565,90,10,100,0,Golpe Fantasma,Fantasma,Fisico
+569,65,20,100,0,Carga Parabola,Electrico,Especial
+571,90,15,100,0,Tormenta Floral,Planta,Fisico
+572,70,20,100,0,Liofilizacion,Hielo,Especial
+576,50,10,100,0,Beso Drenaje,Hada,Especial
+582,90,10,90,0,Carantona,Hada,Fisico
+583,40,30,100,0,Viento Feerico,Hada,Especial
+584,95,15,100,0,Fuerza Lunar,Hada,Especial
+585,140,10,100,0,Estruendo,Normal,Especial
+590,100,5,95,0,Torm. Diamantes,Roca,Fisico
+591,110,5,95,0,Chorro de Vapor,Agua,Especial
+593,15,20,100,1,Shuriken de Agua,Agua,Especial
+594,75,10,100,0,Llama Embrujada,Fuego,Especial
+604,80,10,100,0,Brillo Magico,Hada,Especial
+608,20,20,100,0,Moflete Estatico,Electrico,Fisico
+609,40,40,100,0,Clemencia,Normal,Fisico
+610,20,20,100,0,Acoso,Bicho,Especial
+611,40,20,100,0,Puno Incremento,Lucha,Fisico
+612,80,10,100,0,Ala Mortifera,Volador,Especial
+613,90,10,100,0,Mil Flechas,Tierra,Fisico
+614,90,10,100,0,Mil Temblores,Tierra,Fisico
+615,90,10,100,0,Fuerza Telurica,Tierra,Fisico
+616,140,5,90,0,Luz Aniquiladora,Hada,Especial
+617,110,10,85,0,Pulso Primigenio,Agua,Especial
+618,120,10,85,0,Filo del Abismo,Tierra,Fisico
+619,120,5,100,0,Ascenso Draco,Volador,Fisico
+659,90,10,100,2,Escaramuza,Bicho,Fisico
+661,80,10,100,0,Puntada Sombria,Fantasma,Fisico
+662,85,10,100,0,Lariat Oscuro,Siniestro,Fisico
+663,90,10,100,0,Aria Burbuja,Agua,Especial
+664,100,10,90,0,Martillo Hielo,Hielo,Fisico
+666,95,10,95,0,Fuerza Equina,Tierra,Fisico
+668,125,10,100,0,Cuchilla Solar,Planta,Fisico
+669,40,40,100,0,Follaje,Planta,Fisico
+674,80,15,100,0,Golpe Mordaza,Siniestro,Fisico
+675,90,15,100,0,Bola de Polen,Bicho,Especial
+676,80,20,100,0,Anclaje,Acero,Fisico
+678,80,15,100,0,Plancha,Bicho,Fisico
+679,80,15,100,0,Latigo Igneo,Fuego,Fisico
+680,20,10,100,0,Chuleria,Siniestro,Fisico
+681,130,5,100,0,Llama Final,Fuego,Especial
+685,90,15,100,0,Danza Despertar,Normal,Especial
+686,100,10,100,0,Nucleo Castigo,Dragon,Especial
+687,70,15,100,0,Patada Tropical,Planta,Fisico
+689,100,15,100,-3,Pico Canon,Volador,Fisico
+690,110,5,100,0,Fragor Escamas,Dragon,Especial
+691,90,15,100,0,Martillo Dragon,Dragon,Fisico
+692,60,20,100,0,Giro Vil,Siniestro,Fisico
+703,150,5,100,-3,Coraza Trampa,Fuego,Especial
+704,130,5,90,0,Canon Floral,Hada,Especial
+705,85,10,100,0,Psicocolmillo,Psiquico,Fisico
+706,75,10,100,0,Pataleta,Tierra,Fisico
+707,85,10,100,0,Hueso Sombrio,Fantasma,Fisico
+708,40,20,100,1,Roca Veloz,Roca,Fisico
+709,85,10,100,0,Hidroariete,Agua,Fisico
+710,160,10,100,0,Laser Prisma,Psiquico,Especial
+711,90,10,100,0,Robasombra,Fantasma,Fisico
+712,100,5,100,0,Meteoimpacto,Acero,Fisico
+713,100,5,100,0,Rayo Umbrio,Fantasma,Especial
+715,80,10,100,0,Electropunzada,Electrico,Fisico
+717,90,10,100,0,Multiataque,Normal,Fisico
